@@ -1,0 +1,46 @@
+
+.content3{
+    
+    border: 2px solid black;
+    
+    margin-left: 30%;
+    margin-RIGHT: 30%;
+    margin-top: 5%;
+    margin-bottom: 110px;
+}
+.new{
+    background-color: rgb(21, 93, 201);
+    padding-top:10px;
+    padding-bottom:10px;
+    width: auto;
+    color: #fff;
+}
+.at{
+    padding: 5px;
+}
+footer{
+    background-color: #000;
+    color: #fff;
+    font-size: 14px;
+    margin-top: 100px;
+    padding: 0.5px;
+    margin-top: 20px;
+}
+.danger{
+    color: red;
+}
+a.register{
+    text-decoration: none;
+    color: blue;
+}
+a.register:hover{
+    text-decoration: none;
+    color: blue;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+a:hover{
+    color: #fff;
+}
